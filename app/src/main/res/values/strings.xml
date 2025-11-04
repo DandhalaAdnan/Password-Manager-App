@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Adnan Password Manager</string>
+    <string name="label_account_name">Account Name</string>
+    <string name="label_user_name_or_email">Username / Email</string>
+    <string name="label_password">Password</string>
+    <string name="label_add_new_account">Add New Account</string>
+    <string name="label_update_account">Update Account</string>
+    <string name="label_account_details">Account Details</string>
+    <string name="label_account_type">Account Type</string>
+    <string name="label_edit">Edit</string>
+    <string name="label_delete">Delete</string>
+    <string name="label_password_manager">Password Manager</string>
+    <string name="label_no_password_yet">No passwords yet</string>
+    <string name="label_loading">Loading…</string>
+    <string name="label_tap_button_to_add_password">Tap the + button to add your first password</string>
+    <string name="masked_password">********</string>
+</resources>
