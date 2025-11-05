@@ -32,6 +32,7 @@ import com.adnan.passwordmanager.presentation.theme.ButtonBackgroundColor
 import com.adnan.passwordmanager.presentation.theme.DeleteButtonColor
 import com.adnan.passwordmanager.presentation.theme.HintTextFieldColor
 import com.adnan.passwordmanager.presentation.theme.SFProFonts
+import com.adnan.passwordmanager.presentation.theme.WhiteColor
 
 /**
  * Created by Adnan.
@@ -142,7 +143,8 @@ fun PasswordDetailsSheet(
                     stringResource(R.string.label_edit),
                     fontFamily = SFProFonts,
                     fontSize = 16.sp,
-                    fontWeight = FontWeight.Bold
+                    fontWeight = FontWeight.Bold,
+                    color = WhiteColor
                 )
             }
             Button(
@@ -156,7 +158,8 @@ fun PasswordDetailsSheet(
                     stringResource(R.string.label_delete),
                     fontFamily = SFProFonts,
                     fontSize = 16.sp,
-                    fontWeight = FontWeight.Bold
+                    fontWeight = FontWeight.Bold,
+                    color = WhiteColor
                 )
             }
         }

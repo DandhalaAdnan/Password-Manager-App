@@ -17,6 +17,7 @@ import com.adnan.passwordmanager.R
 import com.adnan.passwordmanager.presentation.components.SmallTextField
 import com.adnan.passwordmanager.presentation.theme.ButtonBackgroundColor
 import com.adnan.passwordmanager.presentation.theme.SFProFonts
+import com.adnan.passwordmanager.presentation.theme.WhiteColor
 
 /**
  * Created by Adnan.
@@ -74,6 +75,7 @@ fun AddPasswordSheet(
                 fontSize = 16.sp,
                 fontFamily = SFProFonts,
                 fontWeight = FontWeight.Bold,
+                color = WhiteColor
             )
         }
     }
